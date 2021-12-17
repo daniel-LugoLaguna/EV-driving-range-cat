@@ -5,4 +5,5 @@ En este repositorio se incluyen una serie de notebooks de python con el proceso 
 
 Para obtener el resultado final, la ejecución de los notebooks debe hacerse de forma ordenada, siguiendo el esquema mostrado a continuación.
 
-![image](https://user-images.githubusercontent.com/62033937/146549874-2df7f210-c2c2-4d66-854d-31a5aebf313f.png)
+![image](https://user-images.githubusercontent.com/62033937/146551025-5e1242ce-4337-42f1-99ed-ac436d894194.png)
+
